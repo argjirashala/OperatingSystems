@@ -1,0 +1,7 @@
+Monday Argjira Vesa Harry Bob Ana Elsa Peter Sam Chloe Rebeca
+Tuesday Argjira Vesa Harry Bob Ana Elsa
+Wednesday Argjira Vesa Ana
+Thursday Argjira Bob Ana Elsa Peter
+Friday Argjira Vesa
+Saturday Argjira Harry Bob Ana Elsa Peter Sam Chloe
+Sunday Argjira Vesa Ana Elsa
